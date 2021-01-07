@@ -70,6 +70,12 @@ Here is the list of components.
 | 16   |                                                              | SN75160               | U6                   | SN75160                     | 1                |
 | 17   |                                                              | SN75161               | U7                   | SN75161                     | 1                |
 
+# PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/TriMod_Adapter.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/TriMod_Adapter.html)
+
 
 
 If you liked my project, I would be very happy about a small coffee donation.
